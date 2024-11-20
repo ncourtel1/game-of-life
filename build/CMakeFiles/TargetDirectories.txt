@@ -1,0 +1,3 @@
+/Users/nattan/Documents/cs/personal-projects/game-of-life/build/CMakeFiles/game-of-life.dir
+/Users/nattan/Documents/cs/personal-projects/game-of-life/build/CMakeFiles/edit_cache.dir
+/Users/nattan/Documents/cs/personal-projects/game-of-life/build/CMakeFiles/rebuild_cache.dir

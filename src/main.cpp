@@ -11,7 +11,7 @@ int main(){
    std::array<std::array<int, WIN_HEIGHT>, WIN_WIDTH> swap {}; 
 
    for(auto& row : display){
-      std::generate(row.begin(), row.end(), []() {return rand()%10 == 0 ? 1 : 0;});
+      std::generate(row.begin(), row.end(), []() {return rand()%2 == 0 ? 1 : 0;});
    }
 
    while(true){
